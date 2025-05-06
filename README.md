@@ -11,4 +11,11 @@ Links:
 - [puyasemi.com](https://www.puyasemi.com/)
 - [lcsc PY32F002](https://www.lcsc.com/search?q=%20PY32F002)
 - []()
-
+- https://www.eevblog.com/forum/microcontrollers/$0-11-py32f002a-m0-24mhz-320kb-actually-324kb-more-peripherals/150/
+- https://www.puyasemi.com/en/mcu.html
+- https://www.elektroda.com/rtvforum/topic3946116-30.html
+- https://www.elektroda.pl/rtvforum/topic3951956.html
+- https://py32.org/en/mcu/PY32F003xx.html#datasheet
+- 
+- 
+- 
