@@ -1,5 +1,31 @@
 # PUYA_PY32F002
 
+```
+                    +-----+
+            +--------------------+
+            |J3     |     |    J2|
+        VDD-|1      +-----+     1|-GND
+        GND-|2                  2|-GND
+       +3.3-|3                  3|-+3.3
+[RESET] PF2-|4                  4|-PF4 [BOOT0_PRE]
+[SWCLK]PA14-|5                  5|-GND
+[SWDIO]PA13-|6                  6|-GND
+        GND-|7       RST        7|-GND
+        PF3-|8       +-+        8|-GND
+        PA0-|9       |O|        9|-GND
+        PA1-|10      +-+       10|-PB7
+        PA2-|11                11|-PB6
+        PA3-|12                12|-PB5
+        PA4-|13                13|-PB4
+        PA6-|14                14|-PB3
+        PA6-|15   UPB          15|-PA15
+        PA7-|16   +-+          16|-PA12 [USER LED - GREEN]
+        PB0-|17   |O|          17|-PA11 [USER PUSHBUTTON]
+        PB1-|18   +-+          18|-PA8
+            |                    |
+            +--------------------+
+```
+
 download Keil uVision MDK-Community
 
 https://developer.arm.com/Tools%20and%20Software/Keil%20MDK
